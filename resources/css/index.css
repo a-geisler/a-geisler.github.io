@@ -1,0 +1,46 @@
+
+.profile-image {
+    width: 275px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.my-name {
+    text-align: center;
+    font-family: Helvetica;
+    color: khaki;
+}
+.intro-paragraph {
+    font-family: Helvetica;
+    color: white;
+}
+.goal-list{
+    font-family: Helvetica;
+    color: white;
+    text-align: center;
+}
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+a {
+    font-family: Helvetica;
+    color: white;
+    padding: 0%;
+}
+.contact {
+    font-family: Helvetica;
+    color: white;
+    text-align: center;
+}
+#footer {
+    margin-left: auto;
+    margin-right: auto;
+    bottom: 0;
+    width: 100%;
+}
+.htmlcsslogo {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}

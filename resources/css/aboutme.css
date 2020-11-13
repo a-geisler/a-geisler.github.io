@@ -1,0 +1,30 @@
+.aboutme {
+    font-family: helvetica;
+    color: white;
+}
+
+.aboutme-image {
+    width: 25%;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    height: auto;
+}
+.aboutme-header {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-align: center;
+}
+.careerheader {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-align: left;
+}
+.careerparagraph {
+    font-family: Helvetica;
+    color: white;
+    text-align: left;
+}
+.htmlcssjavalogo {
+    float: right;
+}
