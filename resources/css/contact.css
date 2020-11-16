@@ -1,0 +1,46 @@
+body {
+    background-image: url(https://myktis.com/wp-content/uploads/sites/2/2018/01/typing-on-the-laptop.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+a {
+    font-family: Helvetica;
+    color: black;
+    padding: 1%;
+}
+.backtohome {
+    text-align: center;
+}
+.contactintro {
+    font-family: helvetica;
+    color: white;
+    padding-left: 15%;
+    padding-right: 15%;
+    text-align: center;
+}
+.contactheader {
+    font-family: helvetica;
+    color: black;
+    padding-left: 15%;
+    padding-right: 15%;
+    text-align: center;
+    text-decoration: underline;
+}
+h3 {
+    font-family: helvetica;
+    color: whitesmoke;
+    padding-left: 15%;
+    padding-right: 15%;
+    text-align: center;
+}
+.emailicon {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    float: center;
+}
+

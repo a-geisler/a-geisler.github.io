@@ -1,0 +1,54 @@
+body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3),
+      rgba(0, 0, 0, 0.4)), url(https://ukinvestormagazine.co.uk/wp-content/uploads/2020/10/Build-back-better-forest-640x427.jpg) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.aboutme {
+    font-family: helvetica;
+    color: white;
+    padding-left: 15%;
+    padding-right: 15%;
+    text-align: center;
+}
+
+.aboutme-image {
+    width: 25%;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    height: auto;
+    border-radius: 50%;
+}
+.aboutme-header {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-align: center;
+}
+.careerheader {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-align: center;
+    padding-right: 40%;
+}
+.careerparagraph {
+    font-family: Helvetica;
+    color: white;
+    text-align: center;
+    padding-right: 40%;
+    
+}
+.htmlcssjavalogo {
+    float: right;
+    border-radius: 30%;
+    margin-right: 5%;
+}
+a {
+    font-family: Helvetica;
+    color: white;
+    padding: 1%;
+}
+.homepage {
+    text-align: center;
+}
